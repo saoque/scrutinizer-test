@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LoveCrafts_ShitModule>
+            <active>true</active>
+            <codePool>local</codePool>
+        </LoveCrafts_ShitModule>
+    </modules>
+</config>
